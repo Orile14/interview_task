@@ -1,5 +1,5 @@
-def find_missing_elements(missing_element, unique_element, second_element,
-                          filename):
+def parse_file(missing_element, unique_element, second_element,
+               filename):
     # Initialize variables
     # flag to keep track if we should process owner information
     flag = False
@@ -57,6 +57,6 @@ file_path = "release_notes.txt"
 unq_element = "Issue"
 scnd_element = "Title"
 miss_element = "[ NOTE_MISSING ]"
-missing_notes, issues = find_missing_elements(miss_element, unq_element,
-                                              scnd_element, file_path)
+missing_notes, issues = parse_file(miss_element, unq_element,
+                                   scnd_element, file_path)
 print_summary(issues, missing_notes)
