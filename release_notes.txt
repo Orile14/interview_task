@@ -1,0 +1,188 @@
+***********************************************************************************************
+****************************** First SDK Release Notes Starts here ******************************
+***********************************************************************************************
+
+*** SDK release notes: 7.2.0.0.1 ---> 7.2.0.0.121 ***
+
+--------------------------------------------------------------------------------
+===== repository1 =====
+===== repository2 =====
+===== repository3 =====
+--------------------------------------------------------------------------------
+Title: Title 1
+Issue: XYZ-21797
+System Impact: New Feature
+Description: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Attestation: Attestation
+Approvers: someone
+
+Owner: owner1
+Repository: repository3
+MergeHash: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Changed Files:
+M	file.txt
+--------------------------------------------------------------------------------
+
+[ NOTE_MISSING ] Commit #1
+
+Owner: chdauto
+Repository: repository3
+MergeHash: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Changed Files:
+M	file.txt
+===== repository4 =====
+===== repository5 =====
+[ NOTE_MISSING ] Commit #2
+
+Owner: Eyal
+Repository: repository5
+MergeHash: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Changed Files:
+M	file.txt
+===== repository6 =====
+--------------------------------------------------------------------------------
+Title: Title 3
+Issue: XYZ-21794
+System Impact: New Feature
+Description: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Attestation: Attestation
+Approvers: someone
+
+Owner: owner10
+Repository: repository6
+MergeHash: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Changed Files:
+A	file.txt
+--------------------------------------------------------------------------------
+Title: Title 1
+Issue: XYZ-21797
+System Impact: New Feature
+Description: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Attestation: Attestation
+Approvers: someone
+
+Owner: owner3
+Repository: repository6
+MergeHash: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Changed Files:
+A	file.sh
+--------------------------------------------------------------------------------
+Title: Title 2
+Issue: XYZ-21791
+System Impact: New Feature
+Description: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Attestation: Attestation
+Approvers: someone
+
+Owner: owner1
+Repository: repository6
+MergeHash: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Changed Files:
+D	file.sh
+A	file.sh
+R100	file.sh
+***********************************************************************************************
+****************************** Second SDK Release Notes Starts here *****************************
+***********************************************************************************************
+
+*** SDK release notes: 7.2.0.0. ---> 7.2.0.0.121 ***
+
+--------------------------------------------------------------------------------
+===== repository7 =====
+--------------------------------------------------------------------------------
+Title: Title 1
+Issue: XYZ-21797
+System Impact: New Feature
+Description: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Attestation: Attestation
+Approvers: someone
+
+Owner: owner6
+Repository: repository7
+MergeHash: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Changed Files:
+M	file.txt
+===== repository8 =====
+===== repository9 =====
+--------------------------------------------------------------------------------
+Title: Title 1
+Issue: XYZ-21797
+System Impact: New Feature
+Description: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Attestation: Attestation
+Approvers: someone
+
+Owner: owner2
+Repository: repository9
+MergeHash: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Changed Files:
+A	file.txt
+--------------------------------------------------------------------------------
+Title: Title 1
+Issue: XYZ-21797
+System Impact: New Feature
+Description: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Attestation: Attestation
+Approvers: someone
+
+Owner: owner3
+Repository: repository9
+MergeHash: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Changed Files:
+M	file.txt
+===== repository10 =====
+--------------------------------------------------------------------------------
+Title: Title 1
+Issue: XYZ-21797
+System Impact: New Feature
+Description: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Attestation: Attestation
+Approvers: someone
+
+Owner: owner4
+Repository: repository10
+MergeHash: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Changed Files:
+M	file.sh
+--------------------------------------------------------------------------------
+Title: Title 2
+Issue: XYZ-21791
+System Impact: New Feature
+Description: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Attestation: Attestation
+Approvers: someone
+
+Owner: owner5
+Repository: repository10
+MergeHash: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Changed Files:
+A	file.txt
